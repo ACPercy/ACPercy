@@ -6,12 +6,11 @@
 After years of working in a fast-paced healthcare environment, I decided to transition into tech—driven by my passion for technology, problem-solving, and the meaningful impact it can have across industries.
 
 💻 Tech Skills & Tools
-- **Languages:** C++, Java, HTML, CSS  
+- **Languages:** C, Java, HTML, CSS  
 - **Currently Learning:** JavaScript, Git, GitHub  
 - **Tools:** Visual Studio Code, Eclipse, MySQL
 
-🛠️ Projects
-- **Amazon Clone** – An e-commerce frontend practice project using HTML, CSS, and JavaScript to explore DOM manipulation  
+🛠️ Projects 
 - **YouTube Clone** – A static layout clone of YouTube using HTML and CSS for practicing layout structure and styling  
 
 🎯 Current Goal
